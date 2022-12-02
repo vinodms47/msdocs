@@ -1,1 +1,2 @@
-this repository consists of microsoft azure HPC recipe guides which need to be published in MS learn
+this repository consists of microsoft azure HPC recipe guides which needs to be updated in ms learn
+
