@@ -1,2 +1,2 @@
-this repository consists of microsoft azure HPC recipe guides 
+This repository consists of HPC documents (word) which need to be updated in MS-learn portal and also the new docs which are yet to be published in the ms-learn portal. the ms-docs-update folder consistes of docs which are to be updated an the ms-docs-new folder contains docs which are yet to be published in ms-learn. Also these are folders seperated by each application which consistes of respective hpc deployment doc and also the media files like images, graphs etc.,
 
